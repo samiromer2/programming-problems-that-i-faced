@@ -1,0 +1,4 @@
+in a system of students we want to display a standing where
+- the higher the mark of the student then its 1,2,3.... last
+- if 2 or more students have the same mark then show the same standing 
+- if 2 students got 1 , 1 then what comes after its 3 , not 2.

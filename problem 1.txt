@@ -1,0 +1,8 @@
+we want to create an index to hold more than (_,_,_,_,_)
+so the idea is 
+(__) the first 2 slots its from last 2 digits  
+(_) in the mid slot , a alpa from A-Z
+(__) the last 2 slots its the count of the student 01 - 99
+example
+20A01
+noticing that 20A99 -> 20B01
